@@ -1,6 +1,6 @@
 {
-  "name": "we7/library",
-  "description": "we7/library",
+  "name": "Yietion/we7-library",
+  "description": "we7-library",
   "keywords": ["library", "we7"],
   "require": {
     "php": "^5.6"
